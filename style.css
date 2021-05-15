@@ -71,7 +71,7 @@
     font-style: bold;
   }
   header li:hover, header a:hover {
-      background: green;
+      background: #648ca6;
       color: black;
   }
   
